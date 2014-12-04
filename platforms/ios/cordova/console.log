@@ -1,0 +1,360 @@
+2014-11-30 19:12:51.940 PillParadise[21986:905595] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 19:12:51.941 PillParadise[21986:905595] Multi-tasking -> Device: YES, App: YES
+2014-11-30 19:12:51.955 PillParadise[21986:905595] Unlimited access to network resources
+2014-11-30 19:12:52.314 PillParadise[21986:905595] [CDVTimer][keyboard] 0.051975ms
+2014-11-30 19:12:52.315 PillParadise[21986:905595] [CDVTimer][TotalPluginStartup] 0.205040ms
+2014-11-30 19:12:52.455 PillParadise[21986:905595] Resetting plugins due to page load.
+2014-11-30 19:12:52.646 PillParadise[21986:905595] Finished load of: file:///Users/danielrasmuson/Library/Developer/CoreSimulator/Devices/94317B4C-825A-40BF-8168-ECD1BEDC97E3/data/Containers/Bundle/Application/AFF755B9-A787-4E77-B019-8A3D222A572E/PillParadise.app/www/index.html#/app/search
+2014-11-30 19:13:22.340 PillParadise[22609:907048] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 19:13:22.341 PillParadise[22609:907048] Multi-tasking -> Device: YES, App: YES
+2014-11-30 19:13:22.345 PillParadise[22609:907048] Unlimited access to network resources
+2014-11-30 19:13:22.508 PillParadise[22609:907048] [CDVTimer][keyboard] 0.051975ms
+2014-11-30 19:13:22.508 PillParadise[22609:907048] [CDVTimer][TotalPluginStartup] 0.213981ms
+2014-11-30 19:13:22.548 PillParadise[22609:907048] Resetting plugins due to page load.
+2014-11-30 19:13:22.693 PillParadise[22609:907048] Finished load of: file:///Users/danielrasmuson/Library/Developer/CoreSimulator/Devices/94317B4C-825A-40BF-8168-ECD1BEDC97E3/data/Containers/Bundle/Application/3E531A1B-18E2-410A-A986-BEF36605462A/PillParadise.app/www/index.html#/app/search
+2014-11-30 19:15:30.884 PillParadise[23827:911232] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 19:15:30.885 PillParadise[23827:911232] Multi-tasking -> Device: YES, App: YES
+2014-11-30 19:15:30.890 PillParadise[23827:911232] Unlimited access to network resources
+2014-11-30 19:15:31.058 PillParadise[23827:911232] [CDVTimer][keyboard] 0.045002ms
+2014-11-30 19:15:31.058 PillParadise[23827:911232] [CDVTimer][TotalPluginStartup] 0.198007ms
+2014-11-30 19:15:31.160 PillParadise[23827:911232] Resetting plugins due to page load.
+2014-11-30 19:15:31.313 PillParadise[23827:911232] Finished load of: file:///Users/danielrasmuson/Library/Developer/CoreSimulator/Devices/94317B4C-825A-40BF-8168-ECD1BEDC97E3/data/Containers/Bundle/Application/316431B3-D534-43AF-A075-B13820AF49A2/PillParadise.app/www/index.html#/app/search
+2014-11-30 19:16:03.983 PillParadise[23827:911608] Terminating since there is no system app.
+2014-11-30 19:21:29.675 PillParadise[25041:925486] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 19:21:29.676 PillParadise[25041:925486] Multi-tasking -> Device: YES, App: YES
+2014-11-30 19:21:29.682 PillParadise[25041:925486] Unlimited access to network resources
+2014-11-30 19:21:29.870 PillParadise[25041:925486] [CDVTimer][keyboard] 0.048995ms
+2014-11-30 19:21:29.870 PillParadise[25041:925486] [CDVTimer][TotalPluginStartup] 0.208020ms
+2014-11-30 19:21:29.909 PillParadise[25041:925486] Resetting plugins due to page load.
+2014-11-30 19:21:30.061 PillParadise[25041:925486] Finished load of: file:///Users/danielrasmuson/Library/Developer/CoreSimulator/Devices/94317B4C-825A-40BF-8168-ECD1BEDC97E3/data/Containers/Bundle/Application/61468828-7C0F-4FEC-800A-56B43164F741/PillParadise.app/www/index.html#/app/search
+2014-11-30 19:23:46.202 PillParadise[25852:929677] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 19:23:46.203 PillParadise[25852:929677] Multi-tasking -> Device: YES, App: YES
+2014-11-30 19:23:46.207 PillParadise[25852:929677] Unlimited access to network resources
+2014-11-30 19:23:46.371 PillParadise[25852:929677] [CDVTimer][keyboard] 0.052989ms
+2014-11-30 19:23:46.371 PillParadise[25852:929677] [CDVTimer][TotalPluginStartup] 0.211000ms
+2014-11-30 19:23:46.411 PillParadise[25852:929677] Resetting plugins due to page load.
+2014-11-30 19:23:46.558 PillParadise[25852:929677] Finished load of: file:///Users/danielrasmuson/Library/Developer/CoreSimulator/Devices/94317B4C-825A-40BF-8168-ECD1BEDC97E3/data/Containers/Bundle/Application/EF6A2480-3DA1-4EDF-BC42-3D1C1BEE41E3/PillParadise.app/www/index.html#/app/search
+Nov 30 19:23:54 Daniels-MacBook-Pro-3.local rtcreporting[25852] <Info>: logging starts...
+Nov 30 19:23:54 Daniels-MacBook-Pro-3.local rtcreporting[25852] <Debug>: setMessageLoggingBlock: called
+2014-11-30 19:23:55.907 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x79d3a9d0 AudioOnlyIndicator.centerX == AVAudioOnlyIndicatorView:0x787d15b0.centerX   (Names: AudioOnlyIndicator:0x787d1870 )>",
+    "<NSLayoutConstraint:0x79d3a5f0 H:|-(>=10)-[AudioOnlyIndicator]   (Names: AudioOnlyIndicator:0x787d1870, '|':AVAudioOnlyIndicatorView:0x787d15b0 )>",
+    "<NSLayoutConstraint:0x79d2f9d0 H:|-(0)-[AVAudioOnlyIndicatorView:0x787d15b0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2f970 H:[AVAudioOnlyIndicatorView:0x787d15b0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fc80 H:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fc10 H:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d19970 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x79d3a9d0 AudioOnlyIndicator.centerX == AVAudioOnlyIndicatorView:0x787d15b0.centerX   (Names: AudioOnlyIndicator:0x787d1870 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.908 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x79d3a5f0 H:|-(>=10)-[AudioOnlyIndicator]   (Names: AudioOnlyIndicator:0x787d1870, '|':AVAudioOnlyIndicatorView:0x787d15b0 )>",
+    "<NSLayoutConstraint:0x79d3a580 H:[AudioOnlyIndicator]-(>=10)-|   (Names: AudioOnlyIndicator:0x787d1870, '|':AVAudioOnlyIndicatorView:0x787d15b0 )>",
+    "<NSLayoutConstraint:0x79d2f9d0 H:|-(0)-[AVAudioOnlyIndicatorView:0x787d15b0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2f970 H:[AVAudioOnlyIndicatorView:0x787d15b0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fc80 H:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fc10 H:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d19970 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x79d3a580 H:[AudioOnlyIndicator]-(>=10)-|   (Names: AudioOnlyIndicator:0x787d1870, '|':AVAudioOnlyIndicatorView:0x787d15b0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.908 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x787d0bd0 UnsupportedContentIndicat....centerX == AVUnsupportedContentIndicatorView:0x79d3b7d0.centerX   (Names: UnsupportedContentIndicat...:0x79d3b500 )>",
+    "<NSLayoutConstraint:0x787d1030 H:[UnsupportedContentIndicat...]-(>=10)-|   (Names: UnsupportedContentIndicat...:0x79d3b500, '|':AVUnsupportedContentIndicatorView:0x79d3b7d0 )>",
+    "<NSLayoutConstraint:0x79d2fb20 H:|-(0)-[AVUnsupportedContentIndicatorView:0x79d3b7d0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2faf0 H:[AVUnsupportedContentIndicatorView:0x79d3b7d0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fc80 H:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fc10 H:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d19970 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x787d0bd0 UnsupportedContentIndicat....centerX == AVUnsupportedContentIndicatorView:0x79d3b7d0.centerX   (Names: UnsupportedContentIndicat...:0x79d3b500 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.909 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x79940030 UIView:0x79d3a100.centerX == AVExternalPlaybackIndicatorView:0x79d3a3c0.centerX>",
+    "<NSLayoutConstraint:0x7993ff00 H:|-(>=10)-[UIView:0x79d3a100]   (Names: '|':AVExternalPlaybackIndicatorView:0x79d3a3c0 )>",
+    "<NSLayoutConstraint:0x79d2f8a0 H:|-(0)-[AVExternalPlaybackIndicatorView:0x79d3a3c0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2f870 H:[AVExternalPlaybackIndicatorView:0x79d3a3c0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fc80 H:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fc10 H:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d19970 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x79940030 UIView:0x79d3a100.centerX == AVExternalPlaybackIndicatorView:0x79d3a3c0.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.910 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7993ff00 H:|-(>=10)-[UIView:0x79d3a100]   (Names: '|':AVExternalPlaybackIndicatorView:0x79d3a3c0 )>",
+    "<NSLayoutConstraint:0x7993fe90 H:[UIView:0x79d3a100]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x79d3a3c0 )>",
+    "<NSLayoutConstraint:0x79d2f8a0 H:|-(0)-[AVExternalPlaybackIndicatorView:0x79d3a3c0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2f870 H:[AVExternalPlaybackIndicatorView:0x79d3a3c0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fc80 H:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fc10 H:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d19970 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7993fe90 H:[UIView:0x79d3a100]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x79d3a3c0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.910 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x787d0ec0 H:|-(>=10)-[UnsupportedContentIndicat...]   (Names: UnsupportedContentIndicat...:0x79d3b500, '|':AVUnsupportedContentIndicatorView:0x79d3b7d0 )>",
+    "<NSLayoutConstraint:0x787d1030 H:[UnsupportedContentIndicat...]-(>=10)-|   (Names: UnsupportedContentIndicat...:0x79d3b500, '|':AVUnsupportedContentIndicatorView:0x79d3b7d0 )>",
+    "<NSLayoutConstraint:0x79d2fb20 H:|-(0)-[AVUnsupportedContentIndicatorView:0x79d3b7d0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2faf0 H:[AVUnsupportedContentIndicatorView:0x79d3b7d0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fc80 H:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fc10 H:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d19970 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x787d1030 H:[UnsupportedContentIndicat...]-(>=10)-|   (Names: UnsupportedContentIndicat...:0x79d3b500, '|':AVUnsupportedContentIndicatorView:0x79d3b7d0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.911 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x787d0bd0 UnsupportedContentIndicat....centerX == AVUnsupportedContentIndicatorView:0x79d3b7d0.centerX   (Names: UnsupportedContentIndicat...:0x79d3b500 )>",
+    "<NSLayoutConstraint:0x787d0ec0 H:|-(>=10)-[UnsupportedContentIndicat...]   (Names: UnsupportedContentIndicat...:0x79d3b500, '|':AVUnsupportedContentIndicatorView:0x79d3b7d0 )>",
+    "<NSLayoutConstraint:0x79d2fb20 H:|-(0)-[AVUnsupportedContentIndicatorView:0x79d3b7d0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2faf0 H:[AVUnsupportedContentIndicatorView:0x79d3b7d0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fc80 H:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fc10 H:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d19970 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x787d0bd0 UnsupportedContentIndicat....centerX == AVUnsupportedContentIndicatorView:0x79d3b7d0.centerX   (Names: UnsupportedContentIndicat...:0x79d3b500 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.912 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7993ffe0 UIView:0x79d3a100.centerY == AVExternalPlaybackIndicatorView:0x79d3a3c0.centerY + 10>",
+    "<NSLayoutConstraint:0x7993fe00 V:[UIView:0x79d3a100]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x79d3a3c0 )>",
+    "<NSLayoutConstraint:0x7993fbf0 V:|-(0)-[ExternalPlaybackIndicator]   (Names: ExternalPlaybackIndicator:0x79d3a030, '|':UIView:0x79d3a100 )>",
+    "<NSLayoutConstraint:0x7993fb90 V:[ExternalPlaybackIndicator]-(20)-[UILabel:0x79940500]   (Names: ExternalPlaybackIndicator:0x79d3a030 )>",
+    "<NSLayoutConstraint:0x7993fb60 V:[UILabel:0x79940500]-(0)-[UILabel:0x79940350]>",
+    "<NSLayoutConstraint:0x7993fb30 V:[UILabel:0x79940350]-(0)-|   (Names: '|':UIView:0x79d3a100 )>",
+    "<NSLayoutConstraint:0x79d2f7f0 V:|-(0)-[AVExternalPlaybackIndicatorView:0x79d3a3c0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2f7c0 V:[AVExternalPlaybackIndicatorView:0x79d3a3c0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fbc0 V:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fb50 V:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d189d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7993fb90 V:[ExternalPlaybackIndicator]-(20)-[UILabel:0x79940500]   (Names: ExternalPlaybackIndicator:0x79d3a030 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.913 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x787d0c20 UnsupportedContentIndicat....centerY == AVUnsupportedContentIndicatorView:0x79d3b7d0.centerY + 10   (Names: UnsupportedContentIndicat...:0x79d3b500 )>",
+    "<NSLayoutConstraint:0x787d11c0 V:[UnsupportedContentIndicat...]-(>=10)-|   (Names: UnsupportedContentIndicat...:0x79d3b500, '|':AVUnsupportedContentIndicatorView:0x79d3b7d0 )>",
+    "<NSLayoutConstraint:0x79d2fa70 V:|-(0)-[AVUnsupportedContentIndicatorView:0x79d3b7d0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fa30 V:[AVUnsupportedContentIndicatorView:0x79d3b7d0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fbc0 V:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fb50 V:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d189d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x787d0c20 UnsupportedContentIndicat....centerY == AVUnsupportedContentIndicatorView:0x79d3b7d0.centerY + 10   (Names: UnsupportedContentIndicat...:0x79d3b500 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.913 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x79d3a680 AudioOnlyIndicator.centerY == AVAudioOnlyIndicatorView:0x787d15b0.centerY + 10   (Names: AudioOnlyIndicator:0x787d1870 )>",
+    "<NSLayoutConstraint:0x79d3a4f0 V:[AudioOnlyIndicator]-(>=10)-|   (Names: AudioOnlyIndicator:0x787d1870, '|':AVAudioOnlyIndicatorView:0x787d15b0 )>",
+    "<NSLayoutConstraint:0x79d2f920 V:|-(0)-[AVAudioOnlyIndicatorView:0x787d15b0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2f8d0 V:[AVAudioOnlyIndicatorView:0x787d15b0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fbc0 V:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fb50 V:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d189d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x79d3a680 AudioOnlyIndicator.centerY == AVAudioOnlyIndicatorView:0x787d15b0.centerY + 10   (Names: AudioOnlyIndicator:0x787d1870 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.914 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7993ffe0 UIView:0x79d3a100.centerY == AVExternalPlaybackIndicatorView:0x79d3a3c0.centerY + 10>",
+    "<NSLayoutConstraint:0x7993fe00 V:[UIView:0x79d3a100]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x79d3a3c0 )>",
+    "<NSLayoutConstraint:0x79d2f7f0 V:|-(0)-[AVExternalPlaybackIndicatorView:0x79d3a3c0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2f7c0 V:[AVExternalPlaybackIndicatorView:0x79d3a3c0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fbc0 V:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fb50 V:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d189d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7993ffe0 UIView:0x79d3a100.centerY == AVExternalPlaybackIndicatorView:0x79d3a3c0.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.915 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7993fe60 V:|-(>=10)-[UIView:0x79d3a100]   (Names: '|':AVExternalPlaybackIndicatorView:0x79d3a3c0 )>",
+    "<NSLayoutConstraint:0x7993fe00 V:[UIView:0x79d3a100]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x79d3a3c0 )>",
+    "<NSLayoutConstraint:0x79d2f7f0 V:|-(0)-[AVExternalPlaybackIndicatorView:0x79d3a3c0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2f7c0 V:[AVExternalPlaybackIndicatorView:0x79d3a3c0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fbc0 V:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fb50 V:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d189d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7993fe00 V:[UIView:0x79d3a100]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x79d3a3c0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.915 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x79d3a550 V:|-(>=10)-[AudioOnlyIndicator]   (Names: AudioOnlyIndicator:0x787d1870, '|':AVAudioOnlyIndicatorView:0x787d15b0 )>",
+    "<NSLayoutConstraint:0x79d3a4f0 V:[AudioOnlyIndicator]-(>=10)-|   (Names: AudioOnlyIndicator:0x787d1870, '|':AVAudioOnlyIndicatorView:0x787d15b0 )>",
+    "<NSLayoutConstraint:0x79d2f920 V:|-(0)-[AVAudioOnlyIndicatorView:0x787d15b0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2f8d0 V:[AVAudioOnlyIndicatorView:0x787d15b0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fbc0 V:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fb50 V:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d189d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x79d3a4f0 V:[AudioOnlyIndicator]-(>=10)-|   (Names: AudioOnlyIndicator:0x787d1870, '|':AVAudioOnlyIndicatorView:0x787d15b0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-11-30 19:23:55.916 PillParadise[25852:929677] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x787d1160 V:|-(>=10)-[UnsupportedContentIndicat...]   (Names: UnsupportedContentIndicat...:0x79d3b500, '|':AVUnsupportedContentIndicatorView:0x79d3b7d0 )>",
+    "<NSLayoutConstraint:0x787d11c0 V:[UnsupportedContentIndicat...]-(>=10)-|   (Names: UnsupportedContentIndicat...:0x79d3b500, '|':AVUnsupportedContentIndicatorView:0x79d3b7d0 )>",
+    "<NSLayoutConstraint:0x79d2fa70 V:|-(0)-[AVUnsupportedContentIndicatorView:0x79d3b7d0]   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fa30 V:[AVUnsupportedContentIndicatorView:0x79d3b7d0]-(0)-|   (Names: '|':UIView:0x79d3b9b0 )>",
+    "<NSLayoutConstraint:0x79d2fbc0 V:|-(0)-[UIView:0x79d3b9b0]   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d2fb50 V:[UIView:0x79d3b9b0]-(0)-|   (Names: '|':AVPlayerView:0x79d3bc70 )>",
+    "<NSLayoutConstraint:0x79d189d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x79d3bc70(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x787d11c0 V:[UnsupportedContentIndicat...]-(>=10)-|   (Names: UnsupportedContentIndicat...:0x79d3b500, '|':AVUnsupportedContentIndicatorView:0x79d3b7d0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+Nov 30 19:24:50 Daniels-MacBook-Pro-3.local rtcreporting[25852] <Debug>: initWithSessionInfo: XPC connection interrupted
+2014-11-30 19:24:50.054 PillParadise[25852:940908] Terminating since there is no system app.
+Nov 30 19:24:50 Daniels-MacBook-Pro-3.local rtcreporting[25852] <Error>: sendMessageWithCategory: Failed to get remote object proxy: Error Domain=NSCocoaErrorDomain Code=4097 "The operation couldn’t be completed. (Cocoa error 4097.)" (connection to service named com.apple.rtcreportingd) UserInfo=0x799439b0 {NSDebugDescription=connection to service named com.apple.rtcreportingd}
+2014-11-30 19:55:03.424 PillParadise[28501:1043490] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 19:55:03.425 PillParadise[28501:1043490] Multi-tasking -> Device: YES, App: YES
+2014-11-30 19:55:03.430 PillParadise[28501:1043490] Unlimited access to network resources
+2014-11-30 19:55:03.570 PillParadise[28501:1043490] [CDVTimer][keyboard] 0.050008ms
+2014-11-30 19:55:03.570 PillParadise[28501:1043490] [CDVTimer][TotalPluginStartup] 0.208974ms
+2014-11-30 19:55:03.607 PillParadise[28501:1043490] Resetting plugins due to page load.
+2014-11-30 19:55:03.758 PillParadise[28501:1043490] Finished load of: file:///Users/danielrasmuson/Library/Developer/CoreSimulator/Devices/94317B4C-825A-40BF-8168-ECD1BEDC97E3/data/Containers/Bundle/Application/527D5535-4607-4E03-8765-43261616362C/PillParadise.app/www/index.html#/app/search
+2014-11-30 19:55:53.538 PillParadise[29196:1045118] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 19:55:53.539 PillParadise[29196:1045118] Multi-tasking -> Device: YES, App: YES
+2014-11-30 19:55:53.543 PillParadise[29196:1045118] Unlimited access to network resources
+2014-11-30 19:55:53.679 PillParadise[29196:1045118] [CDVTimer][keyboard] 0.046968ms
+2014-11-30 19:55:53.679 PillParadise[29196:1045118] [CDVTimer][TotalPluginStartup] 0.197947ms
+2014-11-30 19:55:53.721 PillParadise[29196:1045118] Resetting plugins due to page load.
+2014-11-30 19:55:53.964 PillParadise[29196:1045118] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 19:57:12.594 PillParadise[29196:1045118] Resetting plugins due to page load.
+2014-11-30 19:57:12.743 PillParadise[29196:1045118] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 19:57:21.464 PillParadise[29196:1045118] Resetting plugins due to page load.
+2014-11-30 19:57:21.614 PillParadise[29196:1045118] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 19:57:37.293 PillParadise[29911:1047548] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 19:57:37.294 PillParadise[29911:1047548] Multi-tasking -> Device: YES, App: YES
+2014-11-30 19:57:37.298 PillParadise[29911:1047548] Unlimited access to network resources
+2014-11-30 19:57:37.428 PillParadise[29911:1047548] [CDVTimer][keyboard] 0.048041ms
+2014-11-30 19:57:37.428 PillParadise[29911:1047548] [CDVTimer][TotalPluginStartup] 0.192046ms
+2014-11-30 19:57:37.472 PillParadise[29911:1047548] Resetting plugins due to page load.
+2014-11-30 19:57:37.752 PillParadise[29911:1047548] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 19:59:13.768 PillParadise[30602:1050125] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 19:59:13.770 PillParadise[30602:1050125] Multi-tasking -> Device: YES, App: YES
+2014-11-30 19:59:13.774 PillParadise[30602:1050125] Unlimited access to network resources
+2014-11-30 19:59:13.904 PillParadise[30602:1050125] [CDVTimer][keyboard] 0.050008ms
+2014-11-30 19:59:13.904 PillParadise[30602:1050125] [CDVTimer][TotalPluginStartup] 0.205040ms
+2014-11-30 19:59:13.947 PillParadise[30602:1050125] Resetting plugins due to page load.
+2014-11-30 19:59:14.211 PillParadise[30602:1050125] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 20:00:09.354 PillParadise[31737:1052450] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 20:00:09.355 PillParadise[31737:1052450] Multi-tasking -> Device: YES, App: YES
+2014-11-30 20:00:09.359 PillParadise[31737:1052450] Unlimited access to network resources
+2014-11-30 20:00:09.492 PillParadise[31737:1052450] [CDVTimer][keyboard] 0.050008ms
+2014-11-30 20:00:09.492 PillParadise[31737:1052450] [CDVTimer][TotalPluginStartup] 0.212014ms
+2014-11-30 20:00:09.533 PillParadise[31737:1052450] Resetting plugins due to page load.
+2014-11-30 20:00:09.811 PillParadise[31737:1052450] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 20:00:27.092 PillParadise[31737:1052450] Resetting plugins due to page load.
+2014-11-30 20:00:27.298 PillParadise[31737:1052450] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 20:00:35.958 PillParadise[32346:1053564] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 20:00:35.959 PillParadise[32346:1053564] Multi-tasking -> Device: YES, App: YES
+2014-11-30 20:00:35.963 PillParadise[32346:1053564] Unlimited access to network resources
+2014-11-30 20:00:36.102 PillParadise[32346:1053564] [CDVTimer][keyboard] 0.047028ms
+2014-11-30 20:00:36.102 PillParadise[32346:1053564] [CDVTimer][TotalPluginStartup] 0.225008ms
+2014-11-30 20:00:36.143 PillParadise[32346:1053564] Resetting plugins due to page load.
+2014-11-30 20:00:36.419 PillParadise[32346:1053564] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 20:00:58.667 PillParadise[32346:1053564] Resetting plugins due to page load.
+2014-11-30 20:00:58.848 PillParadise[32346:1053564] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 20:01:38.848 PillParadise[32974:1055094] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielrasmuson/Library/Developer/CoreSimulator/Devices/94317B4C-825A-40BF-8168-ECD1BEDC97E3/data/Containers/Data/Application/9DE999D1-88BF-40C6-AB9B-D6B195B6D564/Library/Cookies/Cookies.binarycookies
+2014-11-30 20:01:38.967 PillParadise[32974:1055094] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 20:01:38.968 PillParadise[32974:1055094] Multi-tasking -> Device: YES, App: YES
+2014-11-30 20:01:38.973 PillParadise[32974:1055094] Unlimited access to network resources
+2014-11-30 20:01:39.150 PillParadise[32974:1055094] [CDVTimer][keyboard] 0.415981ms
+2014-11-30 20:01:39.151 PillParadise[32974:1055094] [CDVTimer][TotalPluginStartup] 0.681996ms
+2014-11-30 20:01:39.715 PillParadise[32974:1055094] Resetting plugins due to page load.
+2014-11-30 20:01:40.609 PillParadise[32974:1055094] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 20:02:10.369 PillParadise[33559:1056654] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielrasmuson/Library/Developer/CoreSimulator/Devices/94317B4C-825A-40BF-8168-ECD1BEDC97E3/data/Containers/Data/Application/9A1AD468-0C39-40B4-9254-C4BEE37BB128/Library/Cookies/Cookies.binarycookies
+2014-11-30 20:02:10.491 PillParadise[33559:1056654] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 20:02:10.491 PillParadise[33559:1056654] Multi-tasking -> Device: YES, App: YES
+2014-11-30 20:02:10.496 PillParadise[33559:1056654] Unlimited access to network resources
+2014-11-30 20:02:10.665 PillParadise[33559:1056654] [CDVTimer][keyboard] 0.442982ms
+2014-11-30 20:02:10.665 PillParadise[33559:1056654] [CDVTimer][TotalPluginStartup] 0.615001ms
+2014-11-30 20:02:11.203 PillParadise[33559:1056654] Resetting plugins due to page load.
+2014-11-30 20:02:11.471 PillParadise[33559:1056654] null
+2014-11-30 20:02:11.472 PillParadise[33559:1056654] 1
+2014-11-30 20:02:11.938 PillParadise[33559:1056654] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 20:02:48.591 PillParadise[33559:1056654] Resetting plugins due to page load.
+2014-11-30 20:02:48.842 PillParadise[33559:1056654] Finished load of: http://192.168.62.145:8100/#/app/search
+2014-11-30 20:04:24.600 PillParadise[34354:1061952] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-30 20:04:24.601 PillParadise[34354:1061952] Multi-tasking -> Device: YES, App: YES
+2014-11-30 20:04:24.605 PillParadise[34354:1061952] Unlimited access to network resources
+2014-11-30 20:04:24.745 PillParadise[34354:1061952] [CDVTimer][keyboard] 0.049949ms
+2014-11-30 20:04:24.745 PillParadise[34354:1061952] [CDVTimer][TotalPluginStartup] 0.196993ms
+2014-11-30 20:04:24.784 PillParadise[34354:1061952] Resetting plugins due to page load.
+2014-11-30 20:04:24.932 PillParadise[34354:1061952] Finished load of: file:///Users/danielrasmuson/Library/Developer/CoreSimulator/Devices/94317B4C-825A-40BF-8168-ECD1BEDC97E3/data/Containers/Bundle/Application/9A7736CD-F95E-4A77-8E99-646A36ADCA68/PillParadise.app/www/index.html#/app/search
